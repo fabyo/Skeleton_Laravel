@@ -11,6 +11,6 @@ https://github.com/laravelbook/ardent<br />
 https://github.com/Chumper/Zipper<br />
 <br /><br />
 <a href="http://laravel.com/"><img src="http://i.imgur.com/lssXr4P.png" /></a>
-<img src="http://i.imgur.com/EBl9zIZ.png" />
-<img src="http://i.imgur.com/7sAvt4f.png" />
-<img src="http://i.imgur.com/KoAGSGA.jpg" />
+<a href="http://bower.io/"><img src="http://i.imgur.com/EBl9zIZ.png" /></a>
+<a href="https://angularjs.org/"><img src="http://i.imgur.com/7sAvt4f.png" /></a>
+<a href="http://getbootstrap.com/"><img src="http://i.imgur.com/KoAGSGA.jpg" /></a>
