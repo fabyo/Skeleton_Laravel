@@ -17,7 +17,7 @@ Base para projetos usando Laravel 4.2
 
 > - [Zipper](https://github.com/Chumper/Zipper)
 
-[(http://i.imgur.com/lssXr4P.png)](http://laravel.com/){:target="_blank"}
-[![](http://i.imgur.com/7sAvt4f.png)](https://angularjs.org/){:target="_blank"}
-[![](http://i.imgur.com/EBl9zIZ.png)](http://bower.io/){:target="_blank"}
-[![](http://i.imgur.com/KoAGSGA.jpg)](http://getbootstrap.com/){:target="_blank"}
+[![](http://i.imgur.com/lssXr4P.png)](http://laravel.com/)
+[![](http://i.imgur.com/7sAvt4f.png)](https://angularjs.org/)
+[![](http://i.imgur.com/EBl9zIZ.png)](http://bower.io/)
+[![](http://i.imgur.com/KoAGSGA.jpg)](http://getbootstrap.com/)
