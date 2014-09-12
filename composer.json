@@ -25,6 +25,12 @@
 	},
 	"scripts": {
 		"post-install-cmd": [
+			"php artisan key:generate",
+			"php artisan config:publish maxxscho/laravel-tcpdf",
+			"php artisan asset:publish maxxscho/laravel-tcpdf",
+			"php artisan config:publish maatwebsite/excel",
+			"php artisan config:publish intervention/image",
+			"php artisan config:publish barryvdh/laravel-debugbar",
 			"php artisan clear-compiled",
 			"php artisan optimize"
 		],
