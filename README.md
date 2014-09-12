@@ -21,3 +21,4 @@ Base para projetos usando Laravel 4.2
 [![](http://i.imgur.com/7sAvt4f.png)](https://angularjs.org/)
 [![](http://i.imgur.com/EBl9zIZ.png)](http://bower.io/)
 [![](http://i.imgur.com/KoAGSGA.jpg)](http://getbootstrap.com/)
+
