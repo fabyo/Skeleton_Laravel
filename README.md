@@ -3,7 +3,7 @@ Skeleton_Laravel
 <br />
 Base para projetos usando Laravel 4.2<br />
 componentes extras:<br />
-laravel-tcpdf<br />
+laravel-tcpdf https://github.com/maxxscho/laravel-tcpdf<br />
 Laravel Excel<br />
 Laravel Debugbar<br />
 Intervention Image<br />
