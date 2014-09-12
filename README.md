@@ -17,6 +17,8 @@ Base para projetos usando Laravel 4.2
 
 > - [Zipper](https://github.com/Chumper/Zipper)
 
+[![](http://i.imgur.com/lssXr4P.png)](http://laravel.com/)
+
 <a href="http://laravel.com/" target="_blank"><img src="http://i.imgur.com/lssXr4P.png" /></a>
 <a href="http://bower.io/" target="_blank"><img src="http://i.imgur.com/EBl9zIZ.png" /></a>
 <a href="https://angularjs.org/" target="_blank"><img src="http://i.imgur.com/7sAvt4f.png" /></a>
