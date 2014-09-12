@@ -1,7 +1,7 @@
 Skeleton_Laravel
 ================
-<br />
-Base para projetos usando Laravel 4.2<br />
+
+Base para projetos usando Laravel 4.2
 componentes extras:<br />
 https://github.com/maxxscho/laravel-tcpdf<br />
 https://github.com/Maatwebsite/Laravel-Excel<br />
