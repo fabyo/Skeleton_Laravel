@@ -10,6 +10,6 @@ https://github.com/Intervention/image<br />
 https://github.com/laravelbook/ardent<br />
 https://github.com/Chumper/Zipper<br />
 <br /><br />
-Bower <img src="http://i.imgur.com/EBl9zIZ.png" />:<br />
-AngularJS<br />
-bootstrap
+<img src="http://i.imgur.com/EBl9zIZ.png" />
+<img src="http://i.imgur.com/7sAvt4f.png" />
+<img src="http://i.imgur.com/KoAGSGA.jpg" />
