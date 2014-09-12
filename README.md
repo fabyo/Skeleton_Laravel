@@ -9,9 +9,9 @@ Base para projetos usando Laravel 4.2
 
 > - [Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel)
 
-> - [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
+> - [Laravel-Debugbar](https://github.com/barryvdh/laravel-debugbar)
 
-> - [Intervention-image](https://github.com/Intervention/image)
+> - [Intervention-Image](https://github.com/Intervention/image)
 
 > - [Ardent](https://github.com/laravelbook/ardent)
 
