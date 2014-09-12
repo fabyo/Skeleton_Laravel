@@ -5,7 +5,7 @@ Base para projetos usando Laravel 4.2
 
 > **Componentes Extras:**
 
-> - [laravel-tcpdf](https://github.com/maxxscho/laravel-tcpdf) 
+> - [Laravel-tcPDF](https://github.com/maxxscho/laravel-tcpdf) 
 
 > - [Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel)
 
