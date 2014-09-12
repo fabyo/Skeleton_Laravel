@@ -10,6 +10,7 @@ Intervention Image
 Ardent
 Zipper
 
+
 Bower:
 AngularJS
 bootstrap
